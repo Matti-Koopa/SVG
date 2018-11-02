@@ -1,4 +1,4 @@
-
+.vs
 Source/**/bin/
 Source/**/obj/
 Source/**/*.csproj.user
